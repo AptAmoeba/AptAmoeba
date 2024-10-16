@@ -48,17 +48,22 @@ I'm a wannabe polymath and citizen scientist:
     <th style="border: none; padding: 8px;">Usage</th>
   </tr>
   <tr align="center" style="border: none;">
-    <td style="border: none; padding: 8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"/></td>
+    <td style="border: none; padding: 8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C logo"/></td>
     <td style="border: none; padding: 8px;">C</td>
     <td align="left"><sub>Malware Development & eventual tool finalization</sub></td>
   </tr>
   <tr align="center">
-    <td style="border: none; padding: 8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"/></td>
+    <td style="border: none; padding: 8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo"/></td>
     <td style="border: none; padding: 8px;">Python</td>
     <td align="left"><sub>Scripting & tool development</sub></td>
   </tr>
+    <tr align="center">
+    <td style="border: none; padding: 8px;"><img src="./Assets/PowerShell.svg" height="24" alt="PowerShell logo"/></td>
+    <td style="border: none; padding: 8px;">PowerShell</td>
+    <td align="left"><sub>Scripting & tool development</sub></td>
+  </tr>
   <tr align="center" style="border: none;">
-    <td style="border: none; padding: 8px;"><img src="./Assets/betterBash.png" height="30" alt="bash logo"/></td>
+    <td style="border: none; padding: 8px;"><img src="./Assets/betterBash.png" height="30" alt="Bash logo"/></td>
     <td style="border: none; padding: 8px;">Bash & Batch</td>
     <td align="left"><sub>Simple system scripting</sub></td>
   </tr>
@@ -73,12 +78,12 @@ I'm a wannabe polymath and citizen scientist:
     <td align="left"><sub>Microsoft 365 Defender's 'Advanced Threat Hunting' Query lang</sub></td>
   </tr>
   <tr align="center">
-    <td style="border: none; padding: 8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo"/></td>
+    <td style="border: none; padding: 8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="GraphQL logo"/></td>
     <td style="border: none; padding: 8px;">GraphQL</td>
     <td align="left"><sub>API Interaction</sub></td>
   </tr>
   <tr align="center" style="border: none;">
-    <td style="border: none; padding: 8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo"/></td>
+    <td style="border: none; padding: 8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="Terraform logo"/></td>
     <td style="border: none; padding: 8px;">Terraform</td>
     <td align="left"><sub>(Primarily AWS) Infrastructure as Code lang.</sub></td>
   </tr>
