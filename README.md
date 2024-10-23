@@ -30,7 +30,7 @@ I'm Amoeba,
 -------
 
 ### > Vocational
-I'm currently a Security Engineer & Internal Pentester. I also do Malware Analysis/Development, some physcial Red Teaming, Infrastructure Engineering, and professionally staring at Excel sheets.
+I'm currently a Security Engineer & Internal Pentester. I also do Malware Analysis/Development, some physcial Red Teaming, and Infrastructure Engineering.
 ### > Personal
 I'm a wannabe polymath and citizen scientist:
 - I do Microbiology research (particularly Protozoology)
