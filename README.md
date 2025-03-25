@@ -64,7 +64,7 @@ I'm a wannabe polymath and citizen scientist:
   </tr>
   <tr align="center" style="border: none;">
     <td style="border: none; padding: 8px;"><img src="./Assets/betterBash.png" height="30" alt="Bash logo"/></td>
-    <td style="border: none; padding: 8px;">Bash & Batch</td>
+    <td style="border: none; padding: 8px;">Shell & Batch</td>
     <td align="left"><sub>Simple system scripting</sub></td>
   </tr>
   <tr align="center" style="border: none;">
