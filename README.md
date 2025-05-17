@@ -13,7 +13,7 @@ I'm Amoeba,
 
 <img src="./Assets/ASM.png" height="20" alt="ASM logo"/> | Trying to poorly Reverse Engineer a firmware dump
 
-<img src="./Assets/fish2.svg" height="20" alt="ASM logo"/> | Poking some 4head's phishing server because he isn't filtering SSH sources
+<img src="./Assets/fish2.svg" height="20" alt="Fishy"/> | Poking some 4head's phishing server because he isn't filtering SSH sources
 
 ###
 <!--
