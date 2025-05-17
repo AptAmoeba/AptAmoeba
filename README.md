@@ -11,9 +11,9 @@ I'm Amoeba,
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="20" alt="C-lang logo"/> | Self-teaching C for Malware Development
 
-<img src="./Assets/ASM.png" height="20" alt="ASM logo"/> | Learning x86 Assembly for Malware Analysis
+<img src="./Assets/ASM.png" height="20" alt="ASM logo"/> | Trying to poorly Reverse Engineer a firmware dump
 
-<img src="./Assets/OSCP.png" height="20" alt="ASM logo"/> | Studying for my OSCP exam
+<img src="./Assets/fish2.svg" height="20" alt="ASM logo"/> | Poking some 4head's phishing server because he isn't filtering SSH sources
 
 ###
 <!--
