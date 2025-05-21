@@ -30,12 +30,12 @@ I'm Amoeba,
 -------
 
 ### > Vocational
-I'm currently a Security Engineer & Internal Pentester. I also do Malware Analysis/Development, some physcial Red Teaming, and Infrastructure Engineering.
+I'm currently a Security Engineer & Internal Pentester. I also do Malware Analysis/some Development, and Threat Detection Engineering.
 ### > Personal
 I'm a wannabe polymath and citizen scientist:
-- I do Microbiology research (particularly Protozoology)
-- I love Astrophotography
-- Various CompSci projects, including tool development for other fields.
+- I do Microbiology research (particularly Protozoology topics/community Protist identification)
+- I love Astrophotography & collecting Astronomy data (exoplanet lightcurves, galaxy/molecular cloud imaging, etc.)
+- I also enjoy doing various CompSci projects & analyzing random malware samples that I come across.
 
 -------
 
