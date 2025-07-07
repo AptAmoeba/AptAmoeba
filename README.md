@@ -50,17 +50,17 @@ I'm a wannabe polymath and citizen scientist:
   <tr align="center" style="border: none;">
     <td style="border: none; padding: 8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C logo"/></td>
     <td style="border: none; padding: 8px;">C</td>
-    <td align="left"><sub>Malware Development & eventual tool finalization</sub></td>
+    <td align="left"><sub>Malware Development & RE literacy</sub></td>
   </tr>
   <tr align="center">
     <td style="border: none; padding: 8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo"/></td>
     <td style="border: none; padding: 8px;">Python</td>
-    <td align="left"><sub>Scripting & tool development</sub></td>
+    <td align="left"><sub>Scripting & development</sub></td>
   </tr>
     <tr align="center">
     <td style="border: none; padding: 8px;"><img src="./Assets/PowerShell.svg" height="24" alt="PowerShell logo"/></td>
     <td style="border: none; padding: 8px;">PowerShell</td>
-    <td align="left"><sub>Scripting & tool development</sub></td>
+    <td align="left"><sub>Scripting & development</sub></td>
   </tr>
   <tr align="center" style="border: none;">
     <td style="border: none; padding: 8px;"><img src="./Assets/betterBash.png" height="30" alt="Bash logo"/></td>
@@ -75,7 +75,7 @@ I'm a wannabe polymath and citizen scientist:
   <tr align="center" style="border: none;">
     <td style="border: none; padding: 8px;"><img src="./Assets/msD.png" height="30" alt="MS Defender Logo"/></td>
     <td style="border: none; padding: 8px;">KQL</td>
-    <td align="left"><sub>Microsoft 365 Defender's 'Advanced Threat Hunting' Query lang</sub></td>
+    <td align="left"><sub>Microsoft 365 MDE's 'Advanced Threat Hunting' lang</sub></td>
   </tr>
   <tr align="center">
     <td style="border: none; padding: 8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="GraphQL logo"/></td>
