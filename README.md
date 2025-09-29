@@ -69,13 +69,13 @@ I'm a wannabe polymath and citizen scientist:
   </tr>
   <tr align="center" style="border: none;">
     <td style="border: none; padding: 8px;"><img src="./Assets/CS.png" height="40" alt="CS logo"/></td>
-    <td style="border: none; padding: 8px;">FalconQL</td>
+    <td style="border: none; padding: 8px;">CQL</td>
     <td align="left"><sub>CrowdStrike SIEM query lang</sub></td>
   </tr>
   <tr align="center" style="border: none;">
     <td style="border: none; padding: 8px;"><img src="./Assets/msD.png" height="30" alt="MS Defender Logo"/></td>
     <td style="border: none; padding: 8px;">KQL</td>
-    <td align="left"><sub>Microsoft 365 MDE's 'Advanced Threat Hunting' lang</sub></td>
+    <td align="left"><sub>Microsoft MDE/Sentinel Threat Hunting</sub></td>
   </tr>
   <tr align="center">
     <td style="border: none; padding: 8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="GraphQL logo"/></td>
