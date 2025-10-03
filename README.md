@@ -4,7 +4,7 @@
 <img align="right" height="200" src="./Assets/night-munching.gif"/>
 
 ###
-I'm Amoeba,
+I'm Amoeba (aka BunchOfWetFrogs, or Austin),
 
 ### I'm Currently:
 <img src="./Assets/CRTO.png" height="20" alt="ASM logo"/> | Scheduling my Certified Red Team Operator exam
@@ -30,7 +30,10 @@ I'm Amoeba,
 -------
 
 ### > Vocational
-I'm currently a Security Engineer & Internal Pentester. I also do Malware Analysis/some Development, and Threat Detection Engineering.
+I'm currently a Security Engineer & Internal Pentester (both physcial and digital). I also do Malware Analysis/Development, and Threat Detection Engineering.
+
+I aspire to become a Red Teamer someday, and am very interested in both Malware Development, operations, and continuing physical pentesting. 
+
 ### > Personal
 I'm a wannabe polymath and citizen scientist:
 - I do Microbiology research (particularly Protozoology topics/community Protist identification)
