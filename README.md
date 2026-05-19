@@ -20,9 +20,11 @@ I'm Amoeba (aka BunchOfWetFrogs, or Austin),
 ![AptAmoeba's Stats](https://github-readme-stats.vercel.app/api?username=AptAmoeba&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 -->
 
+-------
+
 <!--GitHub Stats -->
 <br clear="both">
-<div align="center">
+<div align="left">
   <img src="https://ghstats.dev/api/card?username=AptAmoeba&theme=catppuccin&border_radius=0&hide=streak%2Cavg%2Cactive_day%2Cgrade%2Cfollowers%2Crepos" height="400" alt="GitHub Stats Card" />
   <p></p>
   <img src="https://ghstats.dev/api/langs?username=AptAmoeba&theme=catppuccin&border_radius=0" height="200" alt="Top Languages" />
@@ -41,7 +43,7 @@ I'm a wannabe polymath and citizen scientist:
 
 -------
 
-## Languages
+### Languages
 <!--Languages Table -->
 <table border="0" style="border-collapse: collapse; width: 100%;">
   <tr align="center">
