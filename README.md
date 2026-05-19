@@ -97,8 +97,3 @@ I'm a wannabe polymath and citizen scientist:
 
 -------
 
-<!-- Profile Views -->
-<div align="center">
-  <img src="./Assets/betterEyes.png" height="28"/><img src="https://profile-counter.glitch.me/AptAmoeba/count.svg?"/>
-</div>
-
