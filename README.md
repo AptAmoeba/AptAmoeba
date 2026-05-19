@@ -32,8 +32,6 @@ I'm Amoeba (aka BunchOfWetFrogs, or Austin),
 ### > Vocational
 I'm currently a Security Engineer & Internal Pentester (both physcial and digital). I also do Malware Analysis/Development, and Threat Detection Engineering.
 
-I aspire to become a Red Teamer someday, and am very interested in both Malware Development, operations, and continuing physical pentesting. 
-
 ### > Personal
 I'm a wannabe polymath and citizen scientist:
 - I do Microbiology research (particularly Protozoology topics/community Protist identification)
