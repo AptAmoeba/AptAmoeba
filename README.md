@@ -23,8 +23,9 @@ I'm Amoeba (aka BunchOfWetFrogs, or Austin),
 <!--GitHub Stats -->
 <br clear="both">
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AptAmoeba&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AptAmoeba&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
+  <img src="https://ghstats.dev/api/card?username=AptAmoeba&theme=catppuccin&border_radius=0&hide=streak%2Cavg%2Cactive_day%2Cgrade%2Cfollowers%2Crepos" height="400" alt="GitHub Stats Card" />
+  <p></p>
+  <img src="https://ghstats.dev/api/langs?username=AptAmoeba&theme=catppuccin&border_radius=0" height="200" alt="Top Languages" />
 </div>
 
 -------
